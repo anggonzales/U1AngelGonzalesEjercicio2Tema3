@@ -41,20 +41,5 @@
         android:layout_height="wrap_content"
         android:onClick="whatsapp"
         android:text="Enviar mensaje en Whatsapp" />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="navegacion"
-        android:text="Iniciar navegacion" />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="navegacion"
-        android:text="Iniciar navegacion" />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="navegacion"
-        android:text="Iniciar navegacion" />
 </LinearLayout>
 </ScrollView>
